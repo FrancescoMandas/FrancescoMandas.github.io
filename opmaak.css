@@ -1,9 +1,12 @@
+body {background-color: beige;
+
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ffffff;
+  background-color: #f700ff;
 }
 
 li {
@@ -12,7 +15,7 @@ li {
 
 li a {
   display: block;
-  color: beige;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
