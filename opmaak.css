@@ -4,6 +4,7 @@ ul {
         margin: 0;
         padding: 0;
         overflow: hidden;
+        background-color:beige 
       }
       
       li {
@@ -13,6 +14,16 @@ ul {
       li a {
         display: block;
         padding: 8px;
-        background-color: #dddddd;
+        background-color: #ffffff;
+      }
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
       }
       
+      li a:hover {
+        background-color: #c4c4c4;
+      }
