@@ -46,8 +46,10 @@ li a {
 li a:hover {
   background-color: rgb(240, 240, 240);
 }
-h1, h2{
+h1 {
 text-align: center;
+border-style: double;
+border-color: black;
 }
 
 body{margin: 0%;
