@@ -81,7 +81,5 @@ p {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(0, 0, 0);
-  color: rgb(0, 0, 0);
-  text-align: center;
+text-align: center;
 }
