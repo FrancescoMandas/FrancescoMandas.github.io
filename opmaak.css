@@ -1,12 +1,13 @@
-body {background-color: beige;
+body {background-color: beige; 
 
 }
-.column {
+met deze code krijg je een achtergrond kleur op je pagina's
+.column {      
   float: left;
   width: 33.33%;
   padding: 15px;
 }
-
+met deze code krijg je kolommen waar je tekst staat
 .row::after {
   content: "";
   display: table;
@@ -22,7 +23,7 @@ body {background-color: beige;
 * {
   box-sizing: border-box;
 }
-
+met deze code krijg je een balk waar je links in staan
 ul {
   list-style-type: none;
   margin: 0;
@@ -30,7 +31,7 @@ ul {
   overflow: hidden;
   background-color: #ffffff;
 }
-
+deze code zorgt ervoor waar de balk staat en welke kleur die heeft
 li {
   float: left;
 }
@@ -42,10 +43,11 @@ li a {
   padding:14px 16px;
   text-decoration: none;
 }
-
+deze code zorgt ervoor dat de tekst erin zwart is
 li a:hover {
   background-color: rgb(240, 240, 240);
 }
+deze code zrgt ervoor als je er met je cursor er over heen gaat dat het dan lichtgrijs wordt
 h1 {
 text-align: center;
 border-style: double;
@@ -53,21 +55,23 @@ border-color: black;
 border-width: 12px;
 
 }
-
+deze code zorgt ervoor dat je een rand krijgt om h1 wat ik gebruik voor titels op een pagina
 body{margin: 0%;
 
 }
 h2 {
   text-align: center;
 }
+deze code gebruik ik zodat de tekst in het midden blijft dit gebruik ik voor een tussenkop titel
 .bonanza{
   text-align: center;
 }
+deze code zorgt ervoor dat het spel in het midden zit
 
 p {
   background-color: #ffffff;
 }
-
+deze code zorgt ervoor dat de tekst een witte achtergrondskleur krijgt
 .footer {
   position: sticky;
   background-color: black;
@@ -76,3 +80,4 @@ p {
   width: 100%;
 text-align: center;
 }
+deze code zorgt ervoor dat er een voetstuk onderaan de pagina staat met wie het heeft gemaakt
