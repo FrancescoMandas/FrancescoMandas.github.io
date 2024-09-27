@@ -77,7 +77,7 @@ p {
   text-align: center;
 }
 .footer {
-  position: fixed;
+  text-underline-position: below;
   left: 0;
   bottom: 0;
   width: 100%;
